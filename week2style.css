@@ -1,0 +1,191 @@
+/************************* Heading ********************/
+
+#heading {
+   font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", sans-serif; 
+   font-size: 101px;
+   margin-left: 60px;
+   letter-spacing: -3px;
+   margin-bottom: 120px;
+   margin-top: 50px;
+   padding-top: 40px;
+   color: #0026a1;
+}
+
+
+/************************* html ********************/
+
+html {
+	background-color: #00f5ff;	
+}
+
+
+
+/************************* Body ********************/
+
+body {
+	width: 1020px;
+	background-color: white;
+	margin-top: -75px;
+	margin: -75px auto 0;
+	height: 2800px;
+}
+
+#profilepic {
+	width: 260px;
+	margin-left: 60px;
+	float: left;
+	margin-top: 0px;
+}
+
+#howiwork {
+	display: block;
+	margin-left: 380px;
+	width: 580px;
+	float: left;
+	margin-top: -266px;
+}
+
+.howiwork  {
+	font-size: 60px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", sans-serif;
+	color: #00f5ff;
+}
+
+.good, .ugly {
+	font-size: 48px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", sans-serif;
+	color: #00f5ff;
+}
+
+.bad {
+	font-size: 48px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", sans-serif;
+	color: #00f5ff;
+	text-align: right;
+}
+
+.howiworkp, .goodp, .badp, .uglyp {
+	font-size: 18px;
+	margin-top: -30px;
+	line-height: 30px;
+	color: #000072;
+	text-align: justify;
+}
+
+
+
+#good {
+	margin-left: 60px;
+	width: 580px;
+	display: block;
+	float: left;
+}
+
+#bad {
+	display: block;
+	float: right;
+	width: 580px;
+	margin-right: 60px;
+}
+
+#ugly {
+	display: block;
+	float: left;
+	width: 580px;
+	margin-left: 60px;
+}
+
+/************************* Images ********************/
+
+#images {
+	margin-top: 1610px;
+}
+
+#asus {
+	width: 265px;
+	display: block;
+	float: left;
+	margin-left: 60px;
+	margin-right: 45px;
+}
+
+#mac {
+	width: 308px;
+	display: block;
+	float: left;
+	margin-left: -15px;
+	margin-top: -35px;
+}
+
+#logitech {
+	width: 315px;
+	display: block;
+	float: left;
+	margin-left: 9px;
+	margin-top: -12px;
+}
+
+/************************* Image Text ********************/
+
+#bottom {
+	margin-top: 1830px;
+}
+
+#asusp {
+	display: block;
+	float: left;
+	font-size: 18px;
+	line-height: 30px;
+	color: #000072;
+	text-align: justify;
+	width: 260px;
+	margin-left: 60px;
+}
+
+#macp {
+	display: block;
+	float: left;
+	font-size: 18px;
+	line-height: 30px;
+	color: #000072;
+	text-align: justify;
+	width: 260px;
+	margin-left: 60px;
+}
+
+#logitechp {
+	display: block;
+	float: left;
+	font-size: 18px;
+	line-height: 30px;
+	color: #000072;
+	text-align: justify;
+	width: 260px;
+	margin-left: 60px;
+}
+
+/************************* Faces ********************/
+
+#happy {
+	display: block;
+	float: right;
+	margin-top: -1950px;
+	margin-right: 60px; 
+	width: 260px;
+}
+
+#sad {
+	display: block;
+	float: left;
+	width: 260px;
+	margin-top: -1550px;
+	margin-left: -580px;
+}
+
+#grumpy {
+	display: block;
+	float: right;
+	margin-top: -1125px;
+	margin-right: 60px;
+	width: 260px;
+}
